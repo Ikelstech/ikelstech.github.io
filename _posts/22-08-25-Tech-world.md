@@ -1,4 +1,4 @@
-@@ -0,0 +1,34 @@
+
 ---
 layout: post
 title: Technology Development
@@ -33,4 +33,3 @@ What does this mean for you? It means staying current with emerging technologies
 15. Internet of things (IoT)
 16. Cyber Security
 17. 5G
-0 comments on commit 310b65f
