@@ -19,4 +19,4 @@ At Ikels-technology we provide end-users access to new technologies and also adv
 
 ### Contact
 
-Get your tech devices today! check out our [website](https://ikelstech.github.io
+Get your tech devices today! check out our [website]( https://ikelstech.github.io
